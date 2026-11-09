@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-11-09",
+
+  "generation": {
+    "max_quality": "high",
+    "poll_interval_seconds": 8,
+    "generation_timeout_minutes": 55
+  },
+
+  "downloads": {
+    "download_enabled": true,
+    "max_artifact_retention_days": 7
+  },
+
+  "ui": {
+    "smoke_test_enabled": true,
+    "demo_mode_enabled": true,
+    "viewer_3d_enabled": true
+  },
+
+  "maintenance": {
+    "maintenance_mode": false,
+    "maintenance_message": ""
+  },
+
+  "app": {
+    "min_app_version": "1.0.0"
+  },
+
+  "workflows": {
+    "multi_workflow_enabled": true,
+    "allow_user_add_workflow": false
+  }
+}
