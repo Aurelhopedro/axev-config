@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-11-09",
+
+  "presets": [
+    "Athletic man", "Athletic woman", "The Soldier", "The African Warrior",
+    "The Yoruba Warrior", "The Maasai Warrior", "The Zulu Warrior",
+    "The Dahomey Warrior", "The American Sheriff", "The Police Officer (Nigeria)",
+    "The FRSC Officer (Nigeria)", "Detective", "The Secret Agent", "The Covert Spy",
+    "The Professional Hitman", "The Bodyguard", "The Gangster", "The Prison Escapee",
+    "The Priest", "The Corporate High-Flier", "The Female Executive", "Businesswoman",
+    "The Arabian Oil Tycoon", "The Miami Dealer", "The Adventurer",
+    "The Cyberpunk Hacker", "The Wasteland Survivor", "The Bride", "The Beach Girl",
+    "Heavy brute", "Elder", "Teen"
+  ],
+
+  "gender_age": [
+    "male:18", "male:25", "male:30", "male:40", "male:50", "male:60", "male:70",
+    "female:18", "female:25", "female:30", "female:40", "female:50", "female:60",
+    "androgynous:25", "androgynous:30"
+  ],
+
+  "body": [
+    "slim:very slim:short", "slim:slim:average", "medium:average:average",
+    "athletic:average:tall", "athletic:slim:average", "muscular:average:tall",
+    "muscular:heavy:tall", "very muscular:heavy:very tall", "medium:heavy:average",
+    "medium:very heavy:short", "none:slim:very short"
+  ],
+
+  "skin_tone": [
+    "very light", "light", "mixed", "dark", "very dark", "african", "asian", "caucasian"
+  ],
+
+  "hair": [
+    "none:black", "buzz:black", "buzz:brown", "short02:black", "short02:brown",
+    "short02:blonde", "short02:grey", "short04:black", "short04:brown",
+    "long01:black", "long01:brown", "long01:blonde", "long01:red", "long01:purple",
+    "bob02:black", "bob02:brown", "afro01:black", "cornrows:black",
+    "box_braids:black", "ponytail01:black", "ponytail01:brown", "braid01:black",
+    "mohawk:black", "mohawk:purple"
+  ],
+
+  "facial_hair": [
+    "none", "stubble", "mustache", "mustache_stubble", "goatee", "short_beard", "full_beard"
+  ],
+
+  "eyes": [
+    "blackbrown", "darkbrown", "brown", "brownlight", "green", "lightblue", "grey", "ice"
+  ],
+
+  "outfit": [
+    "preset_default", "male_casualsuit01", "male_elegantsuit01", "male_worksuit01",
+    "female_casualsuit02", "female_elegantsuit01", "female_sportsuit01",
+    "set_suit_tie", "set_wedding_gown", "set_cocktail_dress", "set_pantsuit",
+    "set_prison_jumpsuit", "set_street_tee_jeans", "set_clergy", "set_thobe",
+    "fatigue_shirt+fatigue_pants", "uniform_shirt+uniform_trousers",
+    "tank_top+cargo_shorts", "techwear_jacket+techwear_pants", "none"
+  ],
+
+  "shoes_hat": [
+    "preset_default:none", "combat_boots:none", "combat_boots:helmet",
+    "combat_boots:beret", "sneakers:baseball_cap", "sneakers:none",
+    "oxfords:none", "oxfords:fedora01", "shoes01:none", "shoes02:none",
+    "heels:none", "sandals:none", "none:cowboy_hat", "shoes03:cowboy_hat"
+  ],
+
+  "weapon": [
+    "none", "pistol", "rifle", "shotgun", "smg", "knife", "sword", "axe", "bat"
+  ],
+
+  "expression": [
+    "neutral", "happy", "angry", "determined", "sad", "surprised", "afraid"
+  ],
+
+  "rig_anim": [
+    "game:yes:A", "game:yes:T", "game:no:A", "game:no:T",
+    "game_lite:yes:A", "game_lite:yes:T", "full:yes:A", "full:yes:T", "none:no:A"
+  ],
+
+  "quality": [
+    "low", "medium", "high"
+  ],
+
+  "export_formats": [
+    "glb", "fbx", "obj", "zip",
+    "glb,fbx", "glb,obj", "glb,fbx,obj", "glb,fbx,obj,zip"
+  ]
+}
