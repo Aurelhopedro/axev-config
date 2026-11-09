@@ -1,16 +1,27 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updated_at": "2026-11-09",
+
   "workflows": [
     {
       "filename": "ara-axev-crime.yml",
       "version": "1.0.0",
-      "description": "AXEV 3D — Gerar Personagem"
+      "id": "axev-crime",
+      "label": "AXEV Crime Studio",
+      "description": "Gerar personagens de ação, crime e combate",
+      "icon": "🔫",
+      "enabled": true,
+      "options_key": "axev-crime"
     },
     {
       "filename": "axev-smoke-test.yml",
       "version": "1.0.0",
-      "description": "AXEV 3D — Smoke Test"
+      "id": "smoke-test",
+      "label": "Smoke Test",
+      "description": "AXEV 3D — Smoke Test",
+      "icon": "🧪",
+      "enabled": true,
+      "options_key": null
     }
   ]
 }
