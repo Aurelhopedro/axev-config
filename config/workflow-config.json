@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-11-09",
+  "workflows": [
+    {
+      "filename": "ara-axev-crime.yml",
+      "version": "1.0.0",
+      "description": "AXEV 3D — Gerar Personagem"
+    },
+    {
+      "filename": "axev-smoke-test.yml",
+      "version": "1.0.0",
+      "description": "AXEV 3D — Smoke Test"
+    }
+  ]
+}
