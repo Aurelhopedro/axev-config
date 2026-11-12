@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "updated_at": "2026-11-12",
   "generation": {
-    "max_quality": "low",
+    "max_quality": "high",
     "poll_interval_seconds": 8,
     "generation_timeout_minutes": 55
   },
