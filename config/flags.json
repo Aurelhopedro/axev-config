@@ -7,23 +7,23 @@
     "generation_timeout_minutes": 55
   },
   "downloads": {
-    "download_enabled": false,
+    "download_enabled": true,
     "max_artifact_retention_days": 7
   },
   "ui": {
-    "smoke_test_enabled": false,
-    "demo_mode_enabled": false,
-    "viewer_3d_enabled": false
+    "smoke_test_enabled": true,
+    "demo_mode_enabled": true,
+    "viewer_3d_enabled": true
   },
   "maintenance": {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": ""
   },
   "app": {
     "min_app_version": "1.0.0"
   },
   "workflows": {
-    "multi_workflow_enabled": false,
+    "multi_workflow_enabled": true,
     "allow_user_add_workflow": false
   }
 }
