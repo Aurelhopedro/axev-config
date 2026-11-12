@@ -13,7 +13,7 @@
   "ui": {
     "smoke_test_enabled": true,
     "demo_mode_enabled": true,
-    "viewer_3d_enabled": true
+    "viewer_3d_enabled": false
   },
   "maintenance": {
     "maintenance_mode": false,
