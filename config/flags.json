@@ -11,13 +11,13 @@
     "max_artifact_retention_days": 7
   },
   "ui": {
-    "smoke_test_enabled": false,
+    "smoke_test_enabled": true,
     "demo_mode_enabled": true,
     "viewer_3d_enabled": true
   },
   "maintenance": {
     "maintenance_mode": false,
-    "maintenance_message": "Ola tudo bem "
+    "maintenance_message": "Ola tudo bem. Troca tudo possa mmn"
   },
   "app": {
     "min_app_version": "1.0.0"
