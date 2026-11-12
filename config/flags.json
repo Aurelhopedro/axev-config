@@ -12,7 +12,7 @@
   },
   "ui": {
     "smoke_test_enabled": false,
-    "demo_mode_enabled": true,
+    "demo_mode_enabled": false,
     "viewer_3d_enabled": true
   },
   "maintenance": {
