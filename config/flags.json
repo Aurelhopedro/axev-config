@@ -16,7 +16,7 @@
     "viewer_3d_enabled": false
   },
   "maintenance": {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "Ola tudo bem "
   },
   "app": {
